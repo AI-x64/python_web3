@@ -1,2 +1,2 @@
 # python_web3
-Coding web3 using python for buy/sell crypto tokens
+Coding web3 using python to buy/sell crypto tokens
